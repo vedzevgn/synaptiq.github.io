@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.9c1d42e3.css",
-    "main.js": "/static/js/main.7830a48c.js",
-    "static/js/592.14081439.chunk.js": "/static/js/592.14081439.chunk.js",
-    "static/media/avatar.jpg": "/static/media/avatar.210cdf5b6b12d955d6c0.jpg",
-    "static/media/InterVariable.ttf": "/static/media/InterVariable.c9f788f6e7ebaec75d7c.ttf",
-    "static/media/Manrope.ttf": "/static/media/Manrope.4afb283bba326df875f6.ttf",
-    "static/media/Synaptiq.png": "/static/media/Synaptiq.90b91e3016943bb1ff79.png",
-    "static/media/min-logo.png": "/static/media/min-logo.35eee289c7a36c56f4d5.png",
-    "static/media/grid.webp": "/static/media/grid.d970a99d46775a837e81.webp",
-    "index.html": "/index.html",
-    "main.9c1d42e3.css.map": "/static/css/main.9c1d42e3.css.map",
-    "main.7830a48c.js.map": "/static/js/main.7830a48c.js.map",
-    "592.14081439.chunk.js.map": "/static/js/592.14081439.chunk.js.map"
+    "main.css": "/synaptiq.github.io/static/css/main.de26d378.css",
+    "main.js": "/synaptiq.github.io/static/js/main.830ffa3b.js",
+    "static/js/592.14081439.chunk.js": "/synaptiq.github.io/static/js/592.14081439.chunk.js",
+    "static/media/avatar.jpg": "/synaptiq.github.io/static/media/avatar.210cdf5b6b12d955d6c0.jpg",
+    "static/media/InterVariable.ttf": "/synaptiq.github.io/static/media/InterVariable.c9f788f6e7ebaec75d7c.ttf",
+    "static/media/Manrope.ttf": "/synaptiq.github.io/static/media/Manrope.4afb283bba326df875f6.ttf",
+    "static/media/Synaptiq.png": "/synaptiq.github.io/static/media/Synaptiq.90b91e3016943bb1ff79.png",
+    "static/media/min-logo.png": "/synaptiq.github.io/static/media/min-logo.35eee289c7a36c56f4d5.png",
+    "static/media/grid.webp": "/synaptiq.github.io/static/media/grid.d970a99d46775a837e81.webp",
+    "index.html": "/synaptiq.github.io/index.html",
+    "main.de26d378.css.map": "/synaptiq.github.io/static/css/main.de26d378.css.map",
+    "main.830ffa3b.js.map": "/synaptiq.github.io/static/js/main.830ffa3b.js.map",
+    "592.14081439.chunk.js.map": "/synaptiq.github.io/static/js/592.14081439.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9c1d42e3.css",
-    "static/js/main.7830a48c.js"
+    "static/css/main.de26d378.css",
+    "static/js/main.830ffa3b.js"
   ]
 }
